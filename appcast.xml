@@ -3,12 +3,27 @@
     <channel>
         <title>TabSight</title>
         <item>
+            <title>1.0.9</title>
+            <pubDate>Sat, 28 Feb 2026 19:40:55 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight-1.0.9.dmg" length="1592429" type="application/octet-stream" sparkle:edSignature="FgPujB5t4MBHqU6nOyx55Ef8PgciZA0unKEBL0/xSlxKyoeA/EdIT2mme3PhE5RGckPGvlRPnEPuoBMktPRyCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight9-8.delta" sparkle:deltaFrom="8" length="9786" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xWsghyILnncALnXEnx9tsjLjh9czem4KlD9QhJrIHTZ0hGHU3A7KTphdjAaSD7v4ZNqG8UDIDwvzjVEOkDaAAA=="/>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight9-7.delta" sparkle:deltaFrom="7" length="104994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Lhw44td0Q/SgcfoRiBLtNRBPSCoOwqt+cUZCIm4Uyl6ZUQVrFshuNQtpY2WyqQAJtqp+EqSkH+IrLzx+PaW7Cg=="/>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight9-6.delta" sparkle:deltaFrom="6" length="126158" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QheOLDOqye+i7fgpub+3uTldsKMLlfeSOHJOnRkqUYb5TFYnn+UTKNqZLZK6MKm6Sk5nbI17ESKJ4dS9KOZTDA=="/>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight9-5.delta" sparkle:deltaFrom="5" length="127602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1MCli9X6b2XELfgkopiY7pzXT2Y7ttLn2f4kd+Zbs0lW3sIwyaXWhto23VA+uiptFT6feL5ToLnNQ0RZDzIJCQ=="/>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight9-4.delta" sparkle:deltaFrom="4" length="132646" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2BxSk6Pdat6zUdAg1vEDhOik8pzdYTdgIor/w0akvW2llVZ4TWS/9poZ8TwxoFWO0d+0dUZYM7APHVG+lysDBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.8</title>
             <pubDate>Sat, 28 Feb 2026 19:22:12 +0000</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.8/TabSight-1.0.8.dmg" length="1592461" type="application/octet-stream" sparkle:edSignature="ZQN0CJLy8ZhFeJxD9c6BTXEvrXKuqpdYH466HvaxaiHcgm386wVaPNEuu4YiausIlz7DDhdqP8NK+cOac4sHBg=="/>
+            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight-1.0.8.dmg" length="1592461" type="application/octet-stream" sparkle:edSignature="ZQN0CJLy8ZhFeJxD9c6BTXEvrXKuqpdYH466HvaxaiHcgm386wVaPNEuu4YiausIlz7DDhdqP8NK+cOac4sHBg=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.8/TabSight8-7.delta" sparkle:deltaFrom="7" length="105030" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dH4uflpPRieWMM0Fn+B1REnAK1uV5e3JiYgj1+02pgArZmJZC67n9fy2bSXt0SuLMrXV1/kYW43V0o8UsCnuCw=="/>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.8/TabSight8-6.delta" sparkle:deltaFrom="6" length="126438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Xh0jy1EMwmVrypDxe2tFKiuvmqfA0KcPW9l3DZqt1IaCT0i+viBKk28luxi9+y7ra/SxhvHsYrl83HC8ZuenBw=="/>
@@ -23,25 +38,12 @@
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.8/TabSight-1.0.7.dmg" length="1580553" type="application/octet-stream" sparkle:edSignature="MqnYqLGeBV8lOisFLyXOImRIfSaFrCB459lAtxXBajxfuvRV08kh1i2JqQ3PSBiqQMryzXjxUbw8dbO0RugrBA=="/>
+            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.9/TabSight-1.0.7.dmg" length="1580553" type="application/octet-stream" sparkle:edSignature="MqnYqLGeBV8lOisFLyXOImRIfSaFrCB459lAtxXBajxfuvRV08kh1i2JqQ3PSBiqQMryzXjxUbw8dbO0RugrBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.7/TabSight7-6.delta" sparkle:deltaFrom="6" length="91778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Awxq+0XT+t6Xf2eWsAtTGSBVMmFEuofrPNiuwhLlcgzNVl8fWQnX3mOl2gTvWdacDTWGX4GzheMf18jKIZ8mDQ=="/>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.7/TabSight7-5.delta" sparkle:deltaFrom="5" length="92798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="u5BJwiJb4NMUGzwQy43IHjV8oBD7AQpv1otEkK/+TPWA0vCzN/SFQipPE+MkwXG34TiqKMMxpv5OGkmvocuVDw=="/>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.7/TabSight7-4.delta" sparkle:deltaFrom="4" length="109958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="T2LHt0OukrXex8s1eHGFXR7BCY8ZirW4uxF9GsMBDMTpFy4pyCpMyheXkITRkoKVd95DkgQ+vaqJ51lU8FvcAw=="/>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.7/TabSight7-3.delta" sparkle:deltaFrom="3" length="109682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uWNIP+EqNjSD3RgVKP0xwWk7gKQCfxwWuXTnpbwgFdv4mHEkdClALg+SsAqzmrBYAiYmiInmDRxupONUBH8NDA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0.6</title>
-            <pubDate>Sat, 28 Feb 2026 18:18:53 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.8/TabSight-1.0.6.dmg" length="1571850" type="application/octet-stream" sparkle:edSignature="7/ebjU5dj0QByv6JivflY9b/B5sk+LPirbVltNLWyVc8f7k5JpDY+iOSrEafM1uIJC4zTICwQH0dioKMzwcNAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.6/TabSight6-5.delta" sparkle:deltaFrom="5" length="43546" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="F4EdQux3S4DMCPs975ALiHXcpRtvv4FW6dHR4LdEPWTrN4Lc0c9wVbrN2cJeSdI2L6y0BGTKFahfOMqmFS5lAA=="/>
-                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.6/TabSight6-4.delta" sparkle:deltaFrom="4" length="80074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iLwbQ1lisqJ5zH3yfgCKyhpPTdhloA716SPllgIlzlESofuhzquMo45TCoIWHb2Rd1vFmoqXWUyjGiDAe5stAA=="/>
-                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0.6/TabSight6-3.delta" sparkle:deltaFrom="3" length="80154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="i9iwoJslv57zybbN+cGoCGSrHW61wgbyVHf+eKycBI/3uCwS92rJlY9WW4Id9p1+MGJoXxK2Wb5qAv2Jc1PsCA=="/>
             </sparkle:deltas>
         </item>
     </channel>
