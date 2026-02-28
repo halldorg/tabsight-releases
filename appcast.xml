@@ -4,11 +4,23 @@
         <title>TabSight</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sat, 28 Feb 2026 14:19:56 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-5/TabSight-1.0-5.dmg" length="1572156" type="application/octet-stream" sparkle:edSignature="pt3i12Z3MVV5s+5ZvecgTd6jLwccsyGVSfxa8psGUXrJ7C1ig6hq+e/vAlIWOby0ljjZC4SiwLMGhLwoCQn3Aw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-5/TabSight5-4.delta" sparkle:deltaFrom="4" length="79278" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+vhD7zg8Em+9G5ZihayFZoaBMF8yAjYanvmRSrI+fOc1svm0pSlWRBJshIELXnd4XxSusoFT5rKupOYC9gWDBg=="/>
+                <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-5/TabSight5-3.delta" sparkle:deltaFrom="3" length="79242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RwiNmwghnXxh7xxK7uogk5Xq2YPN6b0N1yQYyU3sYKb3VtadgDAy8YKUGbu/csZ+Y6JZ1AoQZpa6+kuP0J5PAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Thu, 26 Feb 2026 16:46:37 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-4/TabSight-1.0-4.dmg" length="1568716" type="application/octet-stream" sparkle:edSignature="HYEOHU/01ZZBmdvi6rEsnuMPsfQReKAUw6sRQxtouJdP7xcYmB81GuPMGVIZsSOdBxmt05F+/Xqe1gdc+irkCw=="/>
+            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-5/TabSight-1.0-4.dmg" length="1568716" type="application/octet-stream" sparkle:edSignature="HYEOHU/01ZZBmdvi6rEsnuMPsfQReKAUw6sRQxtouJdP7xcYmB81GuPMGVIZsSOdBxmt05F+/Xqe1gdc+irkCw=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-4/TabSight4-3.delta" sparkle:deltaFrom="3" length="10178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n9jXc5PMC+704IZE/A+s8LQAE6wTOaudwQ02pmn2GXLWlN7nrihemY37XIuyoKGyu/au0zv8EZKMH1Ul+FwdDw=="/>
             </sparkle:deltas>
@@ -19,15 +31,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-4/TabSight-1.0-3.dmg" length="1566804" type="application/octet-stream" sparkle:edSignature="lcctAZBNPOr5uGqmAURq8lEeJ/v1RqVj8DvX/XxFMLB/TyOCFmqOKJIV+NqoA+1EOBe6qCSfOaIR/4lGwaAIDg=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Wed, 25 Feb 2026 12:52:11 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-4/TabSight-1.0.dmg" length="607967" type="application/octet-stream"/>
+            <enclosure url="https://github.com/halldorg/tabsight-releases/releases/download/v1.0-5/TabSight-1.0-3.dmg" length="1566804" type="application/octet-stream" sparkle:edSignature="lcctAZBNPOr5uGqmAURq8lEeJ/v1RqVj8DvX/XxFMLB/TyOCFmqOKJIV+NqoA+1EOBe6qCSfOaIR/4lGwaAIDg=="/>
         </item>
     </channel>
 </rss>
